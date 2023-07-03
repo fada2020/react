@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          시작은 무슨 공부 할거다!!!
+          리액트로 뭘 만들면 되지?
         </a>
       </header>
     </div>
